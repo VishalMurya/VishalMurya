@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/be/49/4d/be494d6debc48ee6fb07331e6fcc00b1.jpg" width="250"/>
+  <img src="https://i.pinimg.com/1200x/be/49/4d/be494d6debc48ee6fb07331e6fcc00b1.jpg" width="450"/>
 </p>
 <h1 align="center">Hi 👋, I'm Vishal Muradiya</h1>
 <h3 align="center">🚀 Data Science Enthusiast | Machine Learning Learner | Digital Marketer</h3>
