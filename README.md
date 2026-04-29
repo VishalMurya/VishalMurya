@@ -8,7 +8,6 @@
 ---
 
 ## 🧠 About Me
-- 🎓 BA (Hons) Student  
 - 💻 Passionate about Data Science & Machine Learning  
 - 📊 Skilled in Python, SQL & Power BI  
 - 🚀 Learning real-world problem solving using data  
