@@ -1,4 +1,4 @@
-[![Watch Demo](https://via.placeholder.com/800x400.png?text=▶+Watch+Demo)](https://pixabay.com/videos/download/video-191684_medium.mp4)
+https://i.pinimg.com/1200x/be/49/4d/be494d6debc48ee6fb07331e6fcc00b1.jpg
 <h1 align="center">Hi 👋, I'm Vishal Muradiya</h1>
 <h3 align="center">🚀 Data Science Enthusiast | Machine Learning Learner | Digital Marketer</h3>
 
