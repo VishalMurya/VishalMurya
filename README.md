@@ -1,4 +1,4 @@
-https://i.pinimg.com/1200x/be/49/4d/be494d6debc48ee6fb07331e6fcc00b1.jpg
+[https://i.pinimg.com/1200x/be/49/4d/be494d6debc48ee6fb07331e6fcc00b1.jpg](https://i.pinimg.com/1200x/be/49/4d/be494d6debc48ee6fb07331e6fcc00b1.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Muradiya</h1>
 <h3 align="center">🚀 Data Science Enthusiast | Machine Learning Learner | Digital Marketer</h3>
 
