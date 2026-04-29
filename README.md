@@ -1,3 +1,4 @@
+[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://youtu.be/YOUR_VIDEO_ID](https://cdn.pixabay.com/video/2023/12/02/191684-891315375_large.mp4))
 <h1 align="center">Hi 👋, I'm Vishal Muradiya</h1>
 <h3 align="center">🚀 Data Science Enthusiast | Machine Learning Learner | Digital Marketer</h3>
 
