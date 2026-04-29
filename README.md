@@ -1,8 +1,20 @@
-### 👋 Hi there, I'm Akhil Regonda!
+# 👋 Hi there, I'm Vishal!
 
----
+## 🚀 About Me
+- 🎓 BA (Hons) Student
+- 💻 Learning Data Science & Digital Marketing
+- 📊 Love working with Python, SQL & Power BI
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
 
 <h3>When I code, I rely on</h3>
 <p>
