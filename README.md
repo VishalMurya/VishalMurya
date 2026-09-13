@@ -1,5 +1,7 @@
 # Hi 👋 I'm Vishal Muradiya
 
+<img width="1646" height="547" alt="image" src="https://github.com/user-attachments/assets/43f86834-9565-4a94-8933-113ad127d958" />
+
 🎓 Data Science & Analytics Enthusiast  
 📊 Transforming Data into Actionable Insights  
 🐍 Python | SQL | Power BI | Machine Learning  
