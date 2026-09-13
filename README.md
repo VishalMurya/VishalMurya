@@ -2,12 +2,9 @@
 
 <img width="1646" height="547" alt="image" src="https://github.com/user-attachments/assets/43f86834-9565-4a94-8933-113ad127d958" />
 
-🎓 Data Science & Analytics Enthusiast  
-📊 Transforming Data into Actionable Insights  
-🐍 Python | SQL | Power BI | Machine Learning  
-🤖 Building Predictive Models & Data-Driven Solutions  
-📈 Passionate About Analytics, Visualization & AI
-
+* End-to-End Machine Learning Applications    🧠 NLP & Deep Learning Experiments 
+* Interactive Data Analytics & BI Dashboards * Predictive Models for Real-World Problems
+⚡ AI-Powered Data Automation Tools     * Deploying ML Models & APIs
 ---
 
 ### Currently Working On
